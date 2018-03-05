@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "BFEL4FPKCC.CineBee.development.com",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
